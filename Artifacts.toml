@@ -1,20 +1,20 @@
 [[ROCmDeviceLibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9fdb94cae0fc41f8cb5cf92a1d81e1edf8a71e98"
+git-tree-sha1 = "2a4556d4ad40fc77472f80ad8a090d3ffea854bb"
 libc = "glibc"
 os = "linux"
 
     [[ROCmDeviceLibs.download]]
-    sha256 = "9f0416e6af78274138ef0d9313d51e8c574bef4abb40f98dadd29318e135b725"
-    url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v4.2.0+1/ROCmDeviceLibs.v4.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7b77b17dcd41d2963ebbd728b45da8f84b9d1a50479de8ab8f2a1b75c803e40d"
+    url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v4.5.2+0/ROCmDeviceLibs.v4.5.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[ROCmDeviceLibs]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a363cde64378cd3287b48d3ef2af6e566073486"
+git-tree-sha1 = "b23dc2131b26435f832a2d5841edb4072f3f804f"
 libc = "musl"
 os = "linux"
 
     [[ROCmDeviceLibs.download]]
-    sha256 = "73a818888be9244ab6faa70c816709b408bc1cbab59197f89a0a0101b576ff2d"
-    url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v4.2.0+1/ROCmDeviceLibs.v4.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "2daba90442887377964c25a925b0e6d53c51323fd0d88f8840051373915d75ba"
+    url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v4.5.2+0/ROCmDeviceLibs.v4.5.2.x86_64-linux-musl-cxx11.tar.gz"
