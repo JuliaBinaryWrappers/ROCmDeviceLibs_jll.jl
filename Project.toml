@@ -1,6 +1,6 @@
 name = "ROCmDeviceLibs_jll"
 uuid = "873c0968-716b-5aa7-bb8d-d1e2e2aeff2d"
-version = "5.5.1+0"
+version = "5.6.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
