@@ -6,5 +6,4 @@ import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("ROCmDeviceLibs")
 JLLWrappers.@generate_main_file("ROCmDeviceLibs", UUID("873c0968-716b-5aa7-bb8d-d1e2e2aeff2d"))
-
 end  # module ROCmDeviceLibs_jll
