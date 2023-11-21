@@ -18,3 +18,13 @@ os = "linux"
     [[ROCmDeviceLibs.download]]
     sha256 = "0e0962504aef9ac2aff51623f856caa1ad049f57ecdb455040f53c91b379e2a7"
     url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v5.6.1+0/ROCmDeviceLibs.v5.6.1.x86_64-linux-musl-cxx11.tar.gz"
+[[ROCmDeviceLibs]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ad5ecb46e3c334821f54c1feecc6c152b7b6a45"
+libc = "mingw32"
+os = "windows"
+
+    [[ROCmDeviceLibs.download]]
+    sha256 = "0e0962504aef9ac2aff51623f856caa1ad049f57ecdb455040f53c91b379e2a7"
+    url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v5.6.1+0/ROCmDeviceLibs.v5.6.1.x86_64-linux-gnu-cxx11.tar.gz"
