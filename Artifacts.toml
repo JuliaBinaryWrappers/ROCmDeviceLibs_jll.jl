@@ -1,6 +1,6 @@
 [ROCmDeviceLibs]
-git-tree-sha1 = "681dee9b7d460a3b54ce5aba334dc5a8071411e6"
+git-tree-sha1 = "0a0cad46b7dacc66387ed19e8c0f45b097f46691"
 
     [[ROCmDeviceLibs.download]]
-    sha256 = "75d81c9124d352835c53a5cf8a74659d493fd8e66ad5270109810792559cb703"
-    url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v7.0.2+0/ROCmDeviceLibs.v7.0.2.any.tar.gz"
+    sha256 = "fb99c6dc75fa88ccc3535fcb29a1bfedeecc0dbd0defbc770b322a896e1fa99d"
+    url = "https://github.com/JuliaBinaryWrappers/ROCmDeviceLibs_jll.jl/releases/download/ROCmDeviceLibs-v6.2.1+2/ROCmDeviceLibs.v6.2.1.any.tar.gz"
